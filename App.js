@@ -10,8 +10,6 @@ import { NavigationContainer } from '@react-navigation/native';
 
 import { Icon } from 'react-native-elements';
 
-
-//hello
 const Tab = createBottomTabNavigator();
 export default class App extends React.Component {
   render() {
@@ -75,4 +73,3 @@ export default class App extends React.Component {
   }
 }
 registerRootComponent(App);
-hjgulh
